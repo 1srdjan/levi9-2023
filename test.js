@@ -28,11 +28,15 @@ api.get('/', (req, res) => {
         for (var i = 0; i < list.length; i++) {
             msg += `<a href = "/${list[i]}">${list[i].split('-').join(' ').split(".json").join("")}</a><br>`;
         }
-        res.send(msg);
+        res.status(200).send(msg);
     });
 });
 
 api.use((req, res) => {
     // console.log(`requested ${req.url}`);
-    res.sendFile(`./players/${req.url}`, { root: __dirname });
+    res.status(200).sendFile(`./players/${req.url}`, { root: __dirname }, (err)=>{
+        if(err){
+            res.status(404).send("404: player not found");
+        }
+    });
 })
