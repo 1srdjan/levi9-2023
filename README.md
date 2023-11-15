@@ -14,4 +14,4 @@ Neophodan je Node.js verzije v21.1.0
 
 -`node test` kako biste pokrenuli server
 
-## Server ce onda biti pokrenut na http://http://localhost:4200/
+## Server ce onda biti pokrenut na http://localhost:4200/
