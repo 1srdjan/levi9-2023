@@ -1,0 +1,33 @@
+{
+  "playerName": "Sithembiso Komla",
+  "gamesPlayed": 10,
+  "traditional": {
+    "freethrows": {
+      "attempts": 4.6,
+      "made": 1.2,
+      "shootingPercentage": 24.5
+    },
+    "twoPoints": {
+      "attempts": 6.9,
+      "made": 5.8,
+      "shootingPercentage": 83.8
+    },
+    "threePoints": {
+      "attempts": 3.5,
+      "made": 1.2,
+      "shootingPercentage": 32.4
+    },
+    "points": 16.2,
+    "rebounds": 3.5,
+    "blocks": 0,
+    "assists": 0,
+    "steals": 1.2,
+    "turnovers": 4.6
+  },
+  "advanced": {
+    "valorization": 1.5,
+    "effectiveFieldGoalPercentage": 78.6,
+    "trueShootingPercentage": 64,
+    "hollingerAssistRatio": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "playerName": "Jaysee Nkrumah",
+  "gamesPlayed": 15,
+  "traditional": {
+    "freethrows": {
+      "attempts": 14.2,
+      "made": 0,
+      "shootingPercentage": 0
+    },
+    "twoPoints": {
+      "attempts": 12,
+      "made": 12,
+      "shootingPercentage": 100
+    },
+    "threePoints": {
+      "attempts": 13.1,
+      "made": 6.6,
+      "shootingPercentage": 50
+    },
+    "points": 43.8,
+    "rebounds": 5.5,
+    "blocks": 2.2,
+    "assists": 2.2,
+    "steals": 5.5,
+    "turnovers": 4.4
+  },
+  "advanced": {
+    "valorization": 3.1,
+    "effectiveFieldGoalPercentage": 90.5,
+    "trueShootingPercentage": 68.5,
+    "hollingerAssistRatio": 5.8
+  }
+}

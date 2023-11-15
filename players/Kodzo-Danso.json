@@ -1,0 +1,33 @@
+{
+  "playerName": "Kodzo Danso",
+  "gamesPlayed": 5,
+  "traditional": {
+    "freethrows": {
+      "attempts": 1.4,
+      "made": 0,
+      "shootingPercentage": 0
+    },
+    "twoPoints": {
+      "attempts": 2.8,
+      "made": 0,
+      "shootingPercentage": 0
+    },
+    "threePoints": {
+      "attempts": 1.4,
+      "made": 0,
+      "shootingPercentage": 0
+    },
+    "points": 0,
+    "rebounds": 2.8,
+    "blocks": 4.3,
+    "assists": 4.3,
+    "steals": 1.4,
+    "turnovers": 1.4
+  },
+  "advanced": {
+    "valorization": 1.8,
+    "effectiveFieldGoalPercentage": 0,
+    "trueShootingPercentage": 0,
+    "hollingerAssistRatio": 40
+  }
+}

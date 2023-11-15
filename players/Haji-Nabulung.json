@@ -1,0 +1,33 @@
+{
+  "playerName": "Haji Nabulung",
+  "gamesPlayed": 10,
+  "traditional": {
+    "freethrows": {
+      "attempts": 5.8,
+      "made": 3.5,
+      "shootingPercentage": 59.7
+    },
+    "twoPoints": {
+      "attempts": 9.2,
+      "made": 4.6,
+      "shootingPercentage": 50
+    },
+    "threePoints": {
+      "attempts": 4.6,
+      "made": 3.5,
+      "shootingPercentage": 75.5
+    },
+    "points": 23.1,
+    "rebounds": 9.2,
+    "blocks": 1.2,
+    "assists": 8.1,
+    "steals": 3.5,
+    "turnovers": 4.6
+  },
+  "advanced": {
+    "valorization": 4.5,
+    "effectiveFieldGoalPercentage": 75,
+    "trueShootingPercentage": 69.7,
+    "hollingerAssistRatio": 27.6
+  }
+}

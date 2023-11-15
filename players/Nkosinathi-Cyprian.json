@@ -1,0 +1,33 @@
+{
+  "playerName": "Nkosinathi Cyprian",
+  "gamesPlayed": 10,
+  "traditional": {
+    "freethrows": {
+      "attempts": 10.4,
+      "made": 3.5,
+      "shootingPercentage": 33.3
+    },
+    "twoPoints": {
+      "attempts": 17.3,
+      "made": 5.8,
+      "shootingPercentage": 33.7
+    },
+    "threePoints": {
+      "attempts": 6.9,
+      "made": 0,
+      "shootingPercentage": 0
+    },
+    "points": 15,
+    "rebounds": 12.7,
+    "blocks": 3.5,
+    "assists": 2.3,
+    "steals": 0,
+    "turnovers": 3.5
+  },
+  "advanced": {
+    "valorization": 0.7,
+    "effectiveFieldGoalPercentage": 25,
+    "trueShootingPercentage": 25.7,
+    "hollingerAssistRatio": 6.7
+  }
+}

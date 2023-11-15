@@ -1,0 +1,33 @@
+{
+  "playerName": "Pili Nkruma",
+  "gamesPlayed": 10,
+  "traditional": {
+    "freethrows": {
+      "attempts": 19.6,
+      "made": 3.5,
+      "shootingPercentage": 17.7
+    },
+    "twoPoints": {
+      "attempts": 31.2,
+      "made": 6.9,
+      "shootingPercentage": 22.3
+    },
+    "threePoints": {
+      "attempts": 24.2,
+      "made": 3.5,
+      "shootingPercentage": 14.3
+    },
+    "points": 27.7,
+    "rebounds": 1.2,
+    "blocks": 2.3,
+    "assists": 3.5,
+    "steals": 1.2,
+    "turnovers": 8.1
+  },
+  "advanced": {
+    "valorization": -4.3,
+    "effectiveFieldGoalPercentage": 22.3,
+    "trueShootingPercentage": 21.4,
+    "hollingerAssistRatio": 4.6
+  }
+}

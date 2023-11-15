@@ -1,0 +1,33 @@
+{
+  "playerName": "Aboki Siyabonga",
+  "gamesPlayed": 5,
+  "traditional": {
+    "freethrows": {
+      "attempts": 0,
+      "made": 0,
+      "shootingPercentage": null
+    },
+    "twoPoints": {
+      "attempts": 0,
+      "made": 0,
+      "shootingPercentage": null
+    },
+    "threePoints": {
+      "attempts": 0,
+      "made": 0,
+      "shootingPercentage": null
+    },
+    "points": 0,
+    "rebounds": 0,
+    "blocks": 0,
+    "assists": 0,
+    "steals": 0,
+    "turnovers": 0
+  },
+  "advanced": {
+    "valorization": 0,
+    "effectiveFieldGoalPercentage": null,
+    "trueShootingPercentage": null,
+    "hollingerAssistRatio": null
+  }
+}

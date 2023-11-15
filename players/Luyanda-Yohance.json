@@ -1,0 +1,33 @@
+{
+  "playerName": "Luyanda Yohance",
+  "gamesPlayed": 5,
+  "traditional": {
+    "freethrows": {
+      "attempts": 8.5,
+      "made": 8.5,
+      "shootingPercentage": 100
+    },
+    "twoPoints": {
+      "attempts": 5.7,
+      "made": 0,
+      "shootingPercentage": 0
+    },
+    "threePoints": {
+      "attempts": 5.7,
+      "made": 5.7,
+      "shootingPercentage": 100
+    },
+    "points": 25.5,
+    "rebounds": 1.4,
+    "blocks": 1.4,
+    "assists": 5.7,
+    "steals": 2.8,
+    "turnovers": 2.8
+  },
+  "advanced": {
+    "valorization": 8.3,
+    "effectiveFieldGoalPercentage": 75,
+    "trueShootingPercentage": 82.6,
+    "hollingerAssistRatio": 23.8
+  }
+}

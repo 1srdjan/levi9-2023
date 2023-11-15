@@ -1,0 +1,33 @@
+{
+  "playerName": "Sifiso Abdalla",
+  "gamesPlayed": 15,
+  "traditional": {
+    "freethrows": {
+      "attempts": 15.3,
+      "made": 11,
+      "shootingPercentage": 71.7
+    },
+    "twoPoints": {
+      "attempts": 15.3,
+      "made": 9.9,
+      "shootingPercentage": 64.2
+    },
+    "threePoints": {
+      "attempts": 20.8,
+      "made": 3.3,
+      "shootingPercentage": 15.7
+    },
+    "points": 40.5,
+    "rebounds": 18.6,
+    "blocks": 5.5,
+    "assists": 2.2,
+    "steals": 3.3,
+    "turnovers": 4.4
+  },
+  "advanced": {
+    "valorization": 3.5,
+    "effectiveFieldGoalPercentage": 43.5,
+    "trueShootingPercentage": 46.6,
+    "hollingerAssistRatio": 4.4
+  }
+}

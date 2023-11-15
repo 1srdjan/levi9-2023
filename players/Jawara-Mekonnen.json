@@ -1,0 +1,33 @@
+{
+  "playerName": "Jawara Mekonnen",
+  "gamesPlayed": 10,
+  "traditional": {
+    "freethrows": {
+      "attempts": 3.5,
+      "made": 3.5,
+      "shootingPercentage": 100
+    },
+    "twoPoints": {
+      "attempts": 9.2,
+      "made": 8.1,
+      "shootingPercentage": 87.8
+    },
+    "threePoints": {
+      "attempts": 3.5,
+      "made": 3.5,
+      "shootingPercentage": 100
+    },
+    "points": 30,
+    "rebounds": 0,
+    "blocks": 1.2,
+    "assists": 5.8,
+    "steals": 2.3,
+    "turnovers": 1.2
+  },
+  "advanced": {
+    "valorization": 5,
+    "effectiveFieldGoalPercentage": 108.8,
+    "trueShootingPercentage": 104.9,
+    "hollingerAssistRatio": 27.4
+  }
+}
