@@ -10,7 +10,7 @@ Neophodan je Node.js verzije v21.1.0
 
 -`git clone` da klonirate repozitorijum
 
--`npm i unutar` foldera kloniranog repozitorijuma
+-`npm i` unutar foldera kloniranog repozitorijuma
 
 -`node test` kako biste pokrenuli server
 
